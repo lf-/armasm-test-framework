@@ -1,0 +1,4 @@
+*.o
+testdata*
+test-arm
+test-x86
